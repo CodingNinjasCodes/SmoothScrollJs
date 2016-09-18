@@ -2,6 +2,7 @@ var smooth_scroll = (function() {
 
     var intervalId;
     var header_height;
+    var detla;
 
     var smoothScroll = function() {
 
