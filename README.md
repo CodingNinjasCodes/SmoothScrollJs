@@ -28,9 +28,9 @@ If there is a fixed header, pass the id of fixed header as config.
 ```
 
 Without Smooth Scroll
-![alt text](https://github.com/CodingNinjasCodes/SmoothScrollJs/blob/master/without_smooth_scroll.gif "Without Smooth Scroll")
+![alt text](https://raw.githubusercontent.com/CodingNinjasCodes/SmoothScrollJs/master/without_smooth_scroll.gif "Without Smooth Scroll")
 
-Without Smooth Scroll
-![alt text](https://github.com/CodingNinjasCodes/SmoothScrollJs/blob/master/with_smooth_scroll.gif "With Smooth Scroll")
+With Smooth Scroll
+![alt text](https://raw.githubusercontent.com/CodingNinjasCodes/SmoothScrollJs/master/with_smooth_scroll.gif "With Smooth Scroll")
 
 
