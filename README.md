@@ -27,6 +27,19 @@ If there is a fixed header, pass the id of fixed header as config.
 
 ```
 
+If there is are links that should be ignored. Pass an array to ignore those links. Example
+
+```
+<script type="text/javascript">
+        smooth_scroll.init({
+            header_id : "page-header",
+            ignore_links: ["page-header"]
+        });
+</script>
+
+
+```
+
 Without Smooth Scroll
 ![alt text](https://raw.githubusercontent.com/CodingNinjasCodes/SmoothScrollJs/master/without_smooth_scroll.gif "Without Smooth Scroll")
 
