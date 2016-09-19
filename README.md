@@ -27,7 +27,7 @@ If there is a fixed header, pass the id of fixed header as config.
 
 ```
 
-If there is are links that should be ignored. Pass an array to ignore those links. Example
+If there are links that should be ignored. Pass an array to ignore those links. Example
 
 ```
 <script type="text/javascript">
